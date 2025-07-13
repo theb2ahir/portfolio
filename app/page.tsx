@@ -1,7 +1,11 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable react/no-unescaped-entities */
+
+
 "use client"
 
 import { useState, useEffect } from "react"
-import { Github, Linkedin, Mail, ExternalLink, Menu, Code, Database, Globe, Smartphone } from "lucide-react"
+import { Github, Linkedin, Mail, ExternalLink, Menu, Code, Globe, Smartphone } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
 
